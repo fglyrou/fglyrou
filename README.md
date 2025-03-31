@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Fani! 👋
 
-<!--
-**fglyrou/fglyrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a researcher and PhD candidate at the **Laboratory of Forest Genetics** (AUTh),  
+with a background in **Forest & Conservation Genetics**.
 
-Here are some ideas to get you started:
+My work focuses on:
+- Forest & conservation genetics 
+- Epigenetics
+- Population genetics
+- Bioinformatics & NGS data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Also pursuing an MSc in **Applied Bioinformatics** at the School of Biology (AUTh).
+
+
+📫 Let’s connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fani-g-lyrou-3352ab109/)
+[![ORCID](https://img.shields.io/badge/ORCID-000000?style=flat&logo=orcid)](https://orcid.org/0000-0002-7739-906X)
