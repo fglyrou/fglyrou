@@ -1,5 +1,5 @@
 # Hi, I'm Fani! 👋
-I'm a researcher and PhD candidate at the **Laboratory of Forest Genetics** (AUTh), with a background in **Forest & Conservation Genetics**. Also pursuing an MSc in **Applied Bioinformatics** at the School of Biology (AUTh).
+I'm a researcher and PhD candidate at the **Laboratory of Forest Genetics** (AUTh), with a background in **Forest & Conservation Genetics, Forest Ecophysiology**. Also pursuing an MSc in **Applied Bioinformatics** at the School of Biology (AUTh).
 
 My work focuses on:
 - Forest & conservation genetics 
